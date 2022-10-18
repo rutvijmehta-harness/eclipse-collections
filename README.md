@@ -66,7 +66,7 @@ Eclipse Collections is compatible with Java 8+. Eclipse Collections is a part of
 
 ## Acquiring Eclipse Collections
 
-### Maven
+### Maven (Test)
 ```xml
 <dependency>
   <groupId>org.eclipse.collections</groupId>
